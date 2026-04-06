@@ -30,6 +30,20 @@ Igual, fue una experiencia muy útil porque aprendí mucho sobre:
 
 Fue un proyecto que, aunque no funcionó como quería, me ayudó a crecer y entender mejor cómo funciona el mundo digital.
 
+## Experiencia en e-commerce
+
+Participé en un proyecto de e-commerce junto a un amigo, enfocado en la venta de nootrópicos (suplementos para mejorar el enfoque).
+
+Durante el proyecto:
+
+- Creamos páginas web optimizadas para conversión  
+- Ejecutamos campañas de publicidad (ads)  
+- Trabajamos en la parte de branding y producto  
+
+El proyecto no continuó por motivos externos y diferencias en la dinámica de trabajo, ya que se volvió difícil compatibilizarlo con mis estudios.
+
+A pesar de eso, fue una experiencia muy valiosa que me permitió aprender sobre e-commerce, marketing digital y desarrollo de proyectos.
+
 ##  Intereses técnicos
 
 Me gusta el mantenimiento de computadoras, tanto a nivel de hardware como de software.
